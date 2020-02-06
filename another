@@ -1,2 +1,5 @@
 Def file(x):
-	return x+35
+	if x > 36:
+		return True
+	else:
+		return False
